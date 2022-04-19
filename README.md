@@ -1,6 +1,6 @@
 <div align="center">
 
-#  🔥⎾ _**JS - NEEEXT 3 - La Castagne**_ ⏋🔥
+#  🔥⎾ _**JS - NEXT 3 - La Castagne**_ ⏋🔥
 
 </div>
 
