@@ -30,7 +30,7 @@ Celui-ci consiste à travailler sur les Class en JS dans le but de faire un peti
 
 - Récupérez le fichier .html et le fichier .js.
 - Ouvrez le fichier .html dans votre navigateur.
-- Faites clique droit "inspecter", et allez dans la console pour ne rien rater! 
+- Faites clique droit ``inspecter``, et allez dans la console pour ne rien rater! 
 
  ___
 <div align="center">
